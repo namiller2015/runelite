@@ -167,6 +167,7 @@ public class RuneLite
 
 	public static void main(String[] args) throws Exception
 	{
+		//comment for init commit
 		Locale.setDefault(Locale.ENGLISH);
 
 		final OptionParser parser = new OptionParser();
